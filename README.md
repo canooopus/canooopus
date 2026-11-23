@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi there, I'm Canooopus 👋</h1>
+  <h1 align="center">Hi there, I'm Canooopus</h1>
   <p align="center">
     <strong>Engineer & Designer based in Japan 🇯🇵</strong><br />
     Building web applications and digital tools independently.
@@ -14,24 +14,9 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🛠️ **What I do**: Engineer & Designer building what I want to build independently.
-- 💬 **Current Project**: Working on [**Bond**](https://robopro2.com/app/nagasima/LINE/) — a real-time browser-based chat application.
-- 📝 **Writing**: Sharing technical insights, projects, and design thoughts on my [Portfolio & Blog](https://canooopus-me.vercel.app).
-- 📷 **Interests**: Photography, gadgets & UI/UX design, and listening to [RADWIMPS](https://radwimps.jp/).
-
----
-
-### 💻 Tech Stack & Tools
-
-```text
-Languages      :: TypeScript, JavaScript, HTML5, CSS3, Python
-Frameworks/Libs:: React, Next.js (App Router), Tailwind CSS
-Cloud & Infra  :: Vercel, Cloudflare (Workers / R2), Git / GitHub
-Tools & Design :: Figma, VS Code
-```
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,cloudflare,vercel,figma,git,github,python" alt="Tech Stack Icons" />
-</p>
+- **What I do**: Engineer & Designer building what I want to build independently.
+- **Current Project**: Working on [**Bond**](https://robopro2.com/app/nagasima/LINE/) — a real-time browser-based chat application.
+- **Writing**: Sharing technical insights, projects, and design thoughts on my [Portfolio & Blog](https://canooopus-me.vercel.app).
+- **Interests**: Photography, gadgets & UI/UX design, and listening to [RADWIMPS](https://radwimps.jp/).
