@@ -8,7 +8,7 @@
   <p align="center">
     <a href="https://canooopus-me.vercel.app"><img src="https://img.shields.io/badge/Portfolio-canooopus--me-000000?style=for-the-badge" alt="Portfolio" /></a>
     <a href="https://x.com/Canopus1170612"><img src="https://img.shields.io/badge/X-@Canopus1170612-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-    <a href="mailto:canooopus@gmail.com"><img src="https://img.shields.io/badge/Email-canooopus@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:canoooopus@gmail.com"><img src="https://img.shields.io/badge/Email-canoooopus@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 </div>
 
